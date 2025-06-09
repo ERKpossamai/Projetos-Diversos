@@ -1,8 +1,11 @@
 {
     "files.associations": {
+        "*.embeddedhtml": "html",
         "char_mostrar_na_tela.C": "cpp",
         "string_mostrar_na_tela.C": "cpp",
         "variavei_mostrar_na_tela.C": "cpp",
-        "float_mostrar_na_tela.C": "cpp"
+        "float_mostrar_na_tela.C": "cpp",
+        "int_mostrar_na_tela.C": "cpp",
+        "Nome e idade.C": "cpp"
     }
 }
