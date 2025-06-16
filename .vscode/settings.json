@@ -6,6 +6,7 @@
         "variavei_mostrar_na_tela.C": "cpp",
         "float_mostrar_na_tela.C": "cpp",
         "int_mostrar_na_tela.C": "cpp",
-        "Nome e idade.C": "cpp"
+        "Nome e idade.C": "cpp",
+        "Ficha do aluno.C": "cpp"
     }
 }
